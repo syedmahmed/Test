@@ -1,0 +1,8 @@
+#!/bin/bash
+mkdir /var/lib/aaa && mkdir /var/lib/bbb && mkdir /var/lib/ccc;
+mkdir /var/lib/waagent/ddd;
+echo 'testtesttest';
+echo 'This is a Linux Text in Amazon' > /var/lib/aaa/testscript.txt;
+chmod 666 /var/lib/waagent/ddd;
+useradd "shetye";
+wget http://pkgs.repoforge.org/rpmforge-release/rpmforge-release-0.5.2-2.el6.rf.i686.rpm -P /var/lib/aaa/;

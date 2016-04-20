@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# This is a Linux boot script test
+# You can do cool stuff with this functionality
+mkdir /var/lib/waagent/aaa && mkdir /var/lib/waagent/bbb && mkdir /var/lib/waagent/ccc && mkdir /var/lib/waagent/ddd;

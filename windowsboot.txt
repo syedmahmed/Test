@@ -1,0 +1,3 @@
+This is a windows Boot Script Test
+------ Insert metadata for windows machine----
+----you can do all the cool stuff with this functionality------

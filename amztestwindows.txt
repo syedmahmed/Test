@@ -1,0 +1,6 @@
+<script>
+mkdir c:\aaa
+mkdir c:\bbb
+mkdir c:\ccc
+dir > c:\aaa\list.log
+</script>
