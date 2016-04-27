@@ -1,6 +1,8 @@
 #!/bin/bash
 sudo apt install yum;
 
+sleep 1m
 yum install apt;
+sleep 2m
 
 apt-get install mysql-server;
