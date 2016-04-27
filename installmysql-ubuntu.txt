@@ -1,0 +1,6 @@
+#!/bin/bash
+sudo apt install yum;
+
+yum install apt;
+
+apt-get install mysql-server;
